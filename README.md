@@ -1,25 +1,37 @@
-# Final Project and Deployment
+# My Website Project
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+A responsive, multi-page website demonstrating HTML5, CSS3, and JavaScript skills.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Features
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+- Three fully responsive pages (Home, About, Contact)
+- Semantic HTML5 structure
+- CSS3 styling with modern layout techniques (Flexbox, Grid)
+- Interactive elements:
+  - Image slider on home page
+  - Form validation on contact page
+- Consistent navigation across all pages
 
-## Tasks
+## Technologies Used
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-Good luck and happy coding! 🚀💻
+## Deployment
+
+This website is deployed on GitHub Pages. 
+
+Live URL: [https://yourusername.github.io/my-website](https://yourusername.github.io/my-website)
+
+## How to Run Locally
+
+1. Clone this repository
+2. Open the `index.html` file in your browser
+
+## Future Improvements
+
+- Add more interactive elements
+- Implement a backend for the contact form
+- Add more pages and content
+- Improve accessibility features
